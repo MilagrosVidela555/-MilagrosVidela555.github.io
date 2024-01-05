@@ -1,0 +1,34 @@
+/*body{
+    background-color: #A20715;
+}
+*/
+.logo{
+    width: 45px;
+    height: 40px;
+}
+
+.btn-outline-light{
+    --bs-btn-hover-color: #A20715;
+}
+.dropdown-menu{
+    --bs-dropdown-bg:#A20715;
+}
+.dropdown-item:hover{
+    background-color:#ffff;
+    color: #A20715;
+}
+
+.card{
+    width: 200px;
+    height: 280px;
+    margin: 10px;
+}
+/*
+.tamaño-img{
+    height: 50%!important;
+
+}*/
+
+#comentarios{
+    height: 100px;
+}
