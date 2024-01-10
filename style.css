@@ -1,14 +1,10 @@
-/*body{
-    background-color: #A20715;
-}
-*/
 .logo{
     width: 45px;
     height: 40px;
 }
-
 .btn-outline-light{
     --bs-btn-hover-color: #A20715;
+    --bs-btn-hover-border-color: #A20715;
 }
 .dropdown-menu{
     --bs-dropdown-bg:#A20715;
@@ -17,18 +13,28 @@
     background-color:#ffff;
     color: #A20715;
 }
+/*revisar*/
+.img-fluid{
+    height: 400px;
+}
 
 .card{
     width: 200px;
-    height: 280px;
     margin: 10px;
+ --bs-card-height: 380px;
 }
-/*
-.tamaño-img{
-    height: 50%!important;
 
-}*/
-
+.h{
+    height: 240px;
+}
+/*height-niñas*/
+.hn{
+    height: 220px;
+}
+.hn2{
+    height:208px;
+}
+/*Formulario*/
 #comentarios{
     height: 100px;
 }
