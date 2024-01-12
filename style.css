@@ -27,7 +27,9 @@
 .h{
     height: 240px;
 }
-
+.hf{
+    height: 55%;
+}
 /*Formulario*/
 #comentarios{
     height: 100px;
